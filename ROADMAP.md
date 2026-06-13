@@ -8,7 +8,7 @@ Total estimated time: ~314 hours, at your own pace.
 
 **Legend:** ✅ Complete &nbsp;·&nbsp; 🚧 In Progress &nbsp;·&nbsp; ⬚ Planned
 
-## Phase 0: Setup & Tooling — ⬚ (~14 hours)
+## Phase 0: Setup & Tooling — ✅ (~14 hours)
 
 | # | Lesson | Status | Est. |
 |---|--------|--------|------|
@@ -19,11 +19,11 @@ Total estimated time: ~314 hours, at your own pace.
 | 05 | Jupyter Notebooks | ✅ | ~75 min |
 | 06 | Python Environments | ✅ | ~75 min |
 | 07 | Docker for AI | ✅ | ~75 min |
-| 08 | Editor Setup | ⬚ | ~75 min |
-| 09 | Data Management | ⬚ | ~75 min |
-| 10 | Terminal & Shell | ⬚ | ~45 min |
-| 11 | Linux for AI | ⬚ | ~45 min |
-| 12 | Debugging & Profiling | ⬚ | ~75 min |
+| 08 | Editor Setup | ✅ | ~75 min |
+| 09 | Data Management | ✅ | ~75 min |
+| 10 | Terminal & Shell | ✅ | ~45 min |
+| 11 | Linux for AI | ✅ | ~45 min |
+| 12 | Debugging & Profiling | ✅ | ~75 min |
 
 ## Phase 1: Math Foundations — ⬚ (~23 hours)
 
