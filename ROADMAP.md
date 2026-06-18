@@ -32,8 +32,8 @@ Total estimated time: ~314 hours, at your own pace.
 | 01 | Linear Algebra Intuition | ✅ | ~45 min |
 | 02 | Vectors, Matrices & Operations | ✅ | ~75 min |
 | 03 | Matrix Transformations & Eigenvalues | ✅ | ~75 min |
-| 04 | Calculus for ML — Derivatives & Gradients | ⬚ | ~45 min |
-| 05 | Chain Rule & Automatic Differentiation | ⬚ | ~75 min |
+| 04 | Calculus for ML — Derivatives & Gradients | ✅ | ~45 min |
+| 05 | Chain Rule & Automatic Differentiation | ✅ | ~75 min |
 | 06 | Probability & Distributions | ⬚ | ~45 min |
 | 07 | Bayes' Theorem & Statistical Thinking | ⬚ | ~75 min |
 | 08 | Optimization — Gradient Descent Family | ⬚ | ~75 min |
