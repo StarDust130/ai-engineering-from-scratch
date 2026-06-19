@@ -52,6 +52,64 @@ Total estimated time: ~314 hours, at your own pace.
 | 21 | Graph Theory for ML | ⬚ | ~45 min |
 | 22 | Stochastic Processes | ⬚ | ~45 min |
 
+--
+
+# 🚨 Tier 1 — Must Master (80% of ML)
+
+### 🔷 Linear Algebra
+- ✅ Linear Algebra Intuition
+- ✅ Vectors & Matrices
+- ✅ Norms & Distances
+
+### 🔶 Calculus
+- ✅ Derivatives & Gradients
+- ✅ Chain Rule
+- ✅ Gradient Descent
+
+### 🟢 Probability & Statistics
+- ✅ Probability & Distributions
+- ✅ Statistics for ML
+- ✅ Bayes' Theorem
+
+**🎯 Goal:** Understand how models learn, make predictions, and optimize.
+
+---
+
+# 🔥 Tier 2 — Important
+
+### 🔷 Advanced Linear Algebra
+- ⭐ Eigenvalues & Eigenvectors
+- ⭐ PCA
+- ⭐ SVD
+- ⭐ Tensor Operations
+
+### 🟢 ML Theory
+- ⭐ Information Theory (Entropy, KL Divergence)
+- ⭐ Numerical Stability
+
+**🎯 Goal:** Understand why modern ML and Deep Learning work.
+
+---
+
+# 👍 Tier 3 — Learn When Needed
+
+- 📌 Convex Optimization
+- 📌 Sampling Methods
+- 📌 Graph Theory
+
+**🎯 Goal:** Useful for specific algorithms and advanced topics.
+
+---
+
+# ❌ Tier 4 — Specialized / Research
+
+- 🌊 Fourier Transform
+- 🔮 Complex Numbers for AI
+- 🎲 Stochastic Processes
+- 🗺️ t-SNE & UMAP
+
+--
+
 ## Phase 2: ML Fundamentals — ⬚ (~21 hours)
 
 | # | Lesson | Status | Est. |
