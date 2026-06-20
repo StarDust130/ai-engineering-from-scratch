@@ -114,9 +114,9 @@ Total estimated time: ~314 hours, at your own pace.
 
 | # | Lesson | Status | Est. |
 |---|--------|--------|------|
-| 01 | What Is Machine Learning — Types & Taxonomy | ⬚ | ~45 min |
-| 02 | Linear Regression from Scratch | ⬚ | ~75 min |
-| 03 | Logistic Regression & Classification | ⬚ | ~75 min |
+| 01 | What Is Machine Learning — Types & Taxonomy | ✅ | ~45 min |
+| 02 | Linear Regression from Scratch | ✅ | ~75 min |
+| 03 | Logistic Regression & Classification | ✅ | ~75 min |
 | 04 | Decision Trees & Random Forests | ⬚ | ~75 min |
 | 05 | Support Vector Machines | ⬚ | ~75 min |
 | 06 | K-Nearest Neighbors & Distance Metrics | ⬚ | ~75 min |
