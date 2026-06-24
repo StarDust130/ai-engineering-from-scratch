@@ -110,7 +110,7 @@ Total estimated time: ~314 hours, at your own pace.
 
 --
 
-## Phase 2: ML Fundamentals — ⬚ (~21 hours)
+## Phase 2: ML Fundamentals — ✅ (~21 hours)
 
 | # | Lesson | Status | Est. |
 |---|--------|--------|------|
@@ -120,18 +120,18 @@ Total estimated time: ~314 hours, at your own pace.
 | 04 | Decision Trees & Random Forests | ✅ | ~75 min |
 | 05 | Support Vector Machines | ✅ | ~75 min |
 | 06 | K-Nearest Neighbors & Distance Metrics | ✅ | ~75 min |
-| 07 | Unsupervised Learning — K-Means, DBSCAN | ⬚ | ~75 min |
-| 08 | Feature Engineering & Selection | ⬚ | ~75 min |
-| 09 | Model Evaluation — Metrics, Cross-Validation | ⬚ | ~75 min |
-| 10 | Bias, Variance & the Learning Curve | ⬚ | ~45 min |
-| 11 | Ensemble Methods — Boosting, Bagging, Stacking | ⬚ | ~75 min |
-| 12 | Hyperparameter Tuning & AutoML | ⬚ | ~75 min |
-| 13 | ML Pipelines & Experiment Tracking | ⬚ | ~75 min |
-| 14 | Naive Bayes — Multinomial, Gaussian, Bernoulli | ⬚ | ~75 min |
-| 15 | Time Series Fundamentals | ⬚ | ~45 min |
-| 16 | Anomaly Detection | ⬚ | ~75 min |
-| 17 | Handling Imbalanced Data | ⬚ | ~75 min |
-| 18 | Feature Selection | ⬚ | ~75 min |
+| 07 | Unsupervised Learning — K-Means, DBSCAN | ✅ | ~75 min |
+| 08 | Feature Engineering & Selection | ✅ | ~75 min |
+| 09 | Model Evaluation — Metrics, Cross-Validation | ✅ | ~75 min |
+| 10 | Bias, Variance & the Learning Curve | ✅ | ~45 min |
+| 11 | Ensemble Methods — Boosting, Bagging, Stacking | ✅ | ~75 min |
+| 12 | Hyperparameter Tuning & AutoML | ✅ | ~75 min |
+| 13 | ML Pipelines & Experiment Tracking | ✅ | ~75 min |
+| 14 | Naive Bayes — Multinomial, Gaussian, Bernoulli | ✅ | ~75 min |
+| 15 | Time Series Fundamentals | ✅ | ~45 min |
+| 16 | Anomaly Detection | ✅ | ~75 min |
+| 17 | Handling Imbalanced Data | ✅ | ~75 min |
+| 18 | Feature Selection | ✅ | ~75 min |
 
 ## Phase 3: Deep Learning Core — ⬚ (~15 hours)
 
