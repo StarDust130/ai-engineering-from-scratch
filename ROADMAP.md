@@ -137,8 +137,8 @@ Total estimated time: ~314 hours, at your own pace.
 
 | # | Lesson | Status | Est. |
 |---|--------|--------|------|
-| 01 | The Perceptron — Where It All Started | ⬚ | ~45 min |
-| 02 | Multi-Layer Networks & Forward Pass | ⬚ | ~75 min |
+| 01 | The Perceptron — Where It All Started | ✅ | ~45 min |
+| 02 | Multi-Layer Networks & Forward Pass | ✅ | ~75 min |
 | 03 | Backpropagation from Scratch | ⬚ | ~75 min |
 | 04 | Activation Functions — ReLU, Sigmoid, GELU & Why | ⬚ | ~45 min |
 | 05 | Loss Functions — MSE, Cross-Entropy, Contrastive | ⬚ | ~45 min |
