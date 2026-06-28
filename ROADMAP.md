@@ -133,23 +133,23 @@ Total estimated time: ~314 hours, at your own pace.
 | 17 | Handling Imbalanced Data | ✅ | ~75 min |
 | 18 | Feature Selection | ✅ | ~75 min |
 
-## Phase 3: Deep Learning Core — ⬚ (~15 hours)
+## Phase 3: Deep Learning Core — ✅ (~15 hours)
 
 | # | Lesson | Status | Est. |
 |---|--------|--------|------|
 | 01 | The Perceptron — Where It All Started | ✅ | ~45 min |
 | 02 | Multi-Layer Networks & Forward Pass | ✅ | ~75 min |
-| 03 | Backpropagation from Scratch | ⬚ | ~75 min |
-| 04 | Activation Functions — ReLU, Sigmoid, GELU & Why | ⬚ | ~45 min |
-| 05 | Loss Functions — MSE, Cross-Entropy, Contrastive | ⬚ | ~45 min |
-| 06 | Optimizers — SGD, Momentum, Adam, AdamW | ⬚ | ~75 min |
-| 07 | Regularization — Dropout, Weight Decay, BatchNorm | ⬚ | ~75 min |
-| 08 | Weight Initialization & Training Stability | ⬚ | ~45 min |
-| 09 | Learning Rate Schedules & Warmup | ⬚ | ~45 min |
-| 10 | Build Your Own Mini Framework | ⬚ | ~120 min |
-| 11 | Introduction to PyTorch | ⬚ | ~75 min |
-| 12 | Introduction to JAX | ⬚ | ~75 min |
-| 13 | Debugging Neural Networks | ⬚ | ~75 min |
+| 03 | Backpropagation from Scratch | ✅ | ~75 min |
+| 04 | Activation Functions — ReLU, Sigmoid, GELU & Why | ✅ | ~45 min |
+| 05 | Loss Functions — MSE, Cross-Entropy, Contrastive | ✅ | ~45 min |
+| 06 | Optimizers — SGD, Momentum, Adam, AdamW | ✅ | ~75 min |
+| 07 | Regularization — Dropout, Weight Decay, BatchNorm | ✅ | ~75 min |
+| 08 | Weight Initialization & Training Stability | ✅ | ~45 min |
+| 09 | Learning Rate Schedules & Warmup | ✅ | ~45 min |
+| 10 | Build Your Own Mini Framework | ✅ | ~120 min |
+| 11 | Introduction to PyTorch | ✅ | ~75 min |
+| 12 | Introduction to JAX | ✅ | ~75 min |
+| 13 | Debugging Neural Networks | ✅ | ~75 min |
 
 ## Phase 4: Computer Vision — ⬚ (~27 hours)
 
